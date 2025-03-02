@@ -11,11 +11,8 @@ PCA is used for dimensionality reduction, transforming the dataset into an ortho
 ```
 wine-PCA-Kmeans
 ├── wine.csv              # Dataset
-├── pca_kmeans.py         # Main Python script with PCA & k-means implementation
-├── requirements.txt      # Dependencies for running the project
-├── README.md             # Project documentation
-├── results/              # Folder for plots & outputs (created when running the script)
-└── notebooks/            # Optional Jupyter Notebooks with detailed analysis
+├── pca_kmeans.ipynb      # Main Notebook with PCA & k-means implementation
+└── README.md             # Project documentation
 ```
 
 ### The Wine Dataset
