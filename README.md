@@ -1,6 +1,4 @@
-Here’s the cleaned-up version of your README.md without emojis and excessive itemized lists:
-
-Exploratory Data Analysis and Clustering on the Wine Dataset (From Scratch)
+# Exploratory Data Analysis and Clustering on the Wine Dataset (From Scratch)
 
 Overview
 
@@ -10,6 +8,7 @@ PCA is used for dimensionality reduction, transforming the dataset into an ortho
 
 Project Structure
 
+```
 wine-PCA-Kmeans
 ├── wine.csv              # Dataset
 ├── pca_kmeans.py         # Main Python script with PCA & k-means implementation
@@ -17,6 +16,7 @@ wine-PCA-Kmeans
 ├── README.md             # Project documentation
 ├── results/              # Folder for plots & outputs (created when running the script)
 └── notebooks/            # Optional Jupyter Notebooks with detailed analysis
+```
 
 The Wine Dataset
 
